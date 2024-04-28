@@ -1,0 +1,12 @@
+{
+  "name": "tp2-javascript",
+  "version": "1.0.0",
+  "description": "belajar JavaScript sanbercode",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node jawaban1"
+  },
+  "author": "Like",
+  "license": "ISC"
+}
+
